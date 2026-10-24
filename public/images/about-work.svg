@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" fill="none">
+<defs><linearGradient id="g" x1="90" y1="70" x2="540" y2="470" gradientUnits="userSpaceOnUse"><stop stop-color="#A78BFA"/><stop offset=".6" stop-color="#7C9CFF"/><stop offset="1" stop-color="#6EE7F9"/></linearGradient><linearGradient id="p" x1="100" y1="80" x2="520" y2="450" gradientUnits="userSpaceOnUse"><stop stop-color="#1C2B50"/><stop offset="1" stop-color="#10172B"/></linearGradient></defs>
+<circle cx="320" cy="250" r="190" fill="#776AF0" opacity=".1"/><circle cx="320" cy="250" r="180" stroke="url(#g)" stroke-opacity=".2" stroke-dasharray="3 10"/>
+<rect x="104" y="88" width="432" height="292" rx="22" fill="url(#p)" stroke="#8FA1FF" stroke-opacity=".5" stroke-width="2"/>
+<path d="M104 123h432" stroke="#8FA1FF" stroke-opacity=".4" stroke-width="2"/><circle cx="128" cy="106" r="5" fill="#F0ABFC"/><circle cx="146" cy="106" r="5" fill="#7C9CFF"/><circle cx="164" cy="106" r="5" fill="#6EE7F9"/>
+<rect x="128" y="147" width="160" height="205" rx="12" fill="#0D1529" stroke="#6275B6" stroke-opacity=".45"/>
+<path d="M147 171h70m-70 18h110m-110 18h88m-88 18h58m-58 18h98m-98 18h74m-74 18h105m-105 18h56" stroke="#8EA2FF" stroke-width="5" stroke-linecap="round" stroke-opacity=".8"/>
+<path d="m157 315 11 10 18-21" stroke="#6EE7F9" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="308" y="147" width="203" height="91" rx="12" fill="#111D38" stroke="#7D90F0" stroke-opacity=".55"/>
+<path d="M328 173h70m-70 17h110m-110 17h83" stroke="#8EA2FF" stroke-width="5" stroke-linecap="round"/>
+<rect x="308" y="252" width="203" height="100" rx="12" fill="#111D38" stroke="#7D90F0" stroke-opacity=".55"/>
+<path d="M329 326v-28m25 28v-49m25 49v-37m25 37v-61m25 61v-42m25 42v-23" stroke="url(#g)" stroke-width="10" stroke-linecap="round"/>
+<path d="M265 400h110l24 33H240l25-33Z" fill="#24365E" stroke="#8397F6" stroke-opacity=".5"/>
+<path d="M213 435h188" stroke="#8EA2FF" stroke-width="7" stroke-linecap="round"/>
+<circle cx="500" cy="94" r="23" fill="#172344" stroke="#A78BFA" stroke-opacity=".6"/><path d="M490 94h20m-10-10v20" stroke="#A78BFA" stroke-width="3" stroke-linecap="round"/>
+<circle cx="91" cy="330" r="15" fill="#172344" stroke="#6EE7F9" stroke-opacity=".6"/><path d="m85 330 4 4 8-9" stroke="#6EE7F9" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
