@@ -1,4 +1,4 @@
-# Manohar D — React Portfolio
+# Manohar  — React Portfolio
 
 A responsive multi-page portfolio website built with **React**, **Vite**, **React Router**, and **Lucide icons**. Includes locally stored SVG illustrations and separate routes for Home, About, Experience, Projects, Certifications, and Contact.
 
